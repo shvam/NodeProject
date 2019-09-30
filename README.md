@@ -1,1 +1,2 @@
-# Backend Challenges Boilerplate - Basic Express
+# boilerplate-express
+A boilerplate for the freeCodeCamp curriculum.
